@@ -1,0 +1,8 @@
+{
+  "name": "Remix Assados do Jeferson - Chatbot WhatsApp",
+  "description": "Sistema completo de chatbot para WhatsApp Business com IA Gemini, catálogo de assados, cálculo de taxas por bairro, geração de pedidos e emissão de comprovantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
